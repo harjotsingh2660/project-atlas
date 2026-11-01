@@ -1,2 +1,1 @@
-# Projec Atlas
-## Setup
+# Project Atlas
