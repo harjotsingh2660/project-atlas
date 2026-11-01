@@ -1,0 +1,7 @@
+2026-08-01T09:03:10Z ERROR [auth] JWT_SECRET missing for token refresh
+2026-08-01T09:06:17Z ERROR [api] POST /projects 500 database timeout
+2026-08-01T09:08:11Z ERROR [gateway] Upstream service unavailable
+2026-08-01T09:11:16Z ERROR [worker] Email job failed retry=1
+2026-08-01T09:14:20Z ERROR [db] Connection pool exhausted
+2026-08-01T09:16:12Z ERROR [auth] Token validation failed user=unknown
+2026-08-01T09:18:08Z ERROR [api] GET /dashboard 500 render timeout
